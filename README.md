@@ -7,6 +7,7 @@ Quarkus
 (https://quarkus.io/blog/road-to-quarkus-3/)
 
 - Jakarta EE 10
+- Eclipse MicroProfile 6
 - Virtual threads (loom)
 - New vert,x-based gRPC server
 - Hibernate ORM 6
@@ -20,3 +21,7 @@ Quarkus
 - Migration Tooling
 
 
+# Basic Quarkus Lab
+- Quarkus concepts
+- Building a Quarkus App
+- Live Coding/Live Reload
